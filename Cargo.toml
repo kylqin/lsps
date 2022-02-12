@@ -2,7 +2,13 @@
 name = "lsps"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+author = "Kyle Qin kylqin@tom.com"
+license = "MIT OR Apache-2.0"
+description = "A lesspass-like terminal password management tool"
+readme = "README.md"
+homepage = "https://github.com/kylqin/lsps"
+repository = "https://github.com/kylqin/lsps"
+keywords = ["cli", "password", "lesspass"]
+categories = ["command-line-utilities"]
 
 [dependencies]
